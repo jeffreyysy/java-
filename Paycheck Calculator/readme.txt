@@ -1,0 +1,3 @@
+Author: Jeffrey Yeung
+
+The program takes input from the user, performs some simple calculations, and outputs something back to the user. The program will calculate how much money you will be making on your next paycheck based on how many hours you worked during the week and your pay rate. Input for the program will consist of two numbers: Total number of hours that were worked Monday through Sunday and your pay rate. So if you worked 25 hours in a week at a pay rate of $12/hour, then your paycheck will be $300 (25 * 12). If you worked 45 hours in a week, your paycheck will be $570 (40 * 12 + 5 * 18).
