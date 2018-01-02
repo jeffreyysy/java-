@@ -1,13 +1,3 @@
 Author: Jeffrey Yeung
 
-The purpose of this assignment is to write a program that plays a number guessing
-game with the user. Your program will give an introduction, telling the user to guess a
-number between 1 and 10. Your program should randomly generate a new number
-to guess every time the program is run. The user will have 3 guesses to guess the
-number. After each guess, the user should be told if there number was too high or
-too low. If the user guesses the number, your program should output
-“Congratulations your_name, you won in X guesses.” Here, your_name is the user’s
-name (your program should prompt the user for their name at the beginning, and
-store it in a variable). Your source file for this program will be called GuessingGame.
-java, defining a class GuessingGame. A couple sample runs of the program will look
-like the following (bold blue is user input…yours won’t need to be blue or bolded):
+The program plays a number guessing game with the user. Your program will give an introduction, telling the user to guess a number between 1 and 10. Your program should randomly generate a new number to guess every time the program is run. The user will have 3 guesses to guess the number. After each guess, the user should be told if there number was too high or too low. If the user guesses the number, your program should output “Congratulations your_name, you won in X guesses.” Here, your_name is the user’s name (your program should prompt the user for their name at the beginning, and store it in a variable). java, defining a class GuessingGame. A couple sample runs of the program will look like the following (bold blue is user input…yours won’t need to be blue or bolded): 
