@@ -1,0 +1,3 @@
+Author: Jeffrey Yeung
+
+This program reads in a set of data, does some simple analyses on the data, and print these analyses to the user. The dataset we will be using is yearly rainfall (in inches) in San Francisco since 1849. The analyses that will be calculated are average rainfall, highest rainfall year with rainfall, and lowest rainfall year with rainfall. While the analyses are seemingly simple, reading in the data from a file, assigning the data to an array, and passing/returning an array to methods will be the primary challenges of this program.
